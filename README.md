@@ -1,7 +1,5 @@
 animal_weight = {}
 
-x = 0
-
 class Goose:
     name = ''
     weight = 0
